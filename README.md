@@ -17,3 +17,4 @@ Click the links on the page to learn more about Search Engine Optimization, Onli
 N/A
 
 ## License
+Please refer to the license in the repo
