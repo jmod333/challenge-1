@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/*Contains information regarding the header of the homepage*/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -59,11 +60,13 @@ p {
     background-position: center;
 }
 
+/*Places image to the left of the paragraph*/
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
+/*Places image to the right of the paragraph*/
 .float-right {
     float: right;
     margin-left: 25px;
@@ -75,6 +78,7 @@ p {
     margin-left: 20px;
 }
 
+/*Contains the benefits section towards the right of the homepage*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -188,6 +192,8 @@ p {
     font-size: 36px;
 }
 
+
+/*Contains information regarding the footer of the homepage*/
 .footer {
     padding: 30px;
     clear: both;
